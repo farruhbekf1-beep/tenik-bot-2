@@ -1,0 +1,2 @@
+# Standard Python 3 libraries are used (sqlite3, urllib, http.server, threading, json).
+# No external pip packages required!
